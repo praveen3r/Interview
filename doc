@@ -1,0 +1,25 @@
+Programs
+
+1.How to count the number of duplicates in integer array.
+int[] a=[1,2,1,2,3,3,4,4]
+2. How to sort the below integer array, without Arrays.sort and collections sorting.
+int[] a=[0,1,0,1,0,1,0,0,1]
+3. How to search in the below array
+int[] a=[1,3,5,8,10,12,16]
+4. String bcxez increment each letter by 4
+5. Thread 1 should print odd and thread 2 should print even without synchronized
+6. Custom arraylist with add, remove, get and size methods. 
+7. Reverse an integer and string without api and fastest algo
+8. Merge two sorted array and result should be merged
+9. Remove middle node in linked list in one traversal
+
+Explain binary search algorithm
+1. Caching in Spring boot. Spring boot features - reactive, conditionally enable a bean, etc
+2. Transaction management
+3. Zuul Proxy, Eureka server and Feign Client in micro services
+4. Design patterns
+5. How to create a thread safe Singleton class and how to break the singleton class
+6. What are the latest concepts in Java 8 and it's features?
+7. Web Security, performance
+8. Open API, Swagger
+9. Devops- Jenkins, Docker
